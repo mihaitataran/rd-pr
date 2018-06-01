@@ -2,19 +2,31 @@
 uid: rd.mihai-tataran
 name: Mihai Tataran
 metadata:
-  title: Mihai Tataran - Microsoft Regional Director, [add professional title]
+  title: Mihai Tataran - Microsoft Regional Director, General Manager @Avaelgo
   description: Microsoft Regional Director
 remarks: |
   ## Bio
-  [Insert bio content here by following the guidelines provided by the RD Program team]
-tagline: Tagline1 / Tagline2 / Tagline3
+  Mihai Tătăran is the General Manager of Avaelgo, Microsoft Azure MVP and Microsoft Regional Director. 
+  He is also Microsoft Azure Insider, and Microsoft Certified Professional. Mihai has been teaching Microsoft 
+  technologies to software companies in Romania and abroad, being invited by Microsoft to deliver many such 
+  trainings for their customers. Mihai has been speaking at many international conferences: 
+  DevReach in Bulgaria, Codecamp Macedonia; TechEd North America, AzureConf; 
+  he organizes ITCamp (https://itcamp.ro - a 2 days conference in Romania on Microsoft technologies, where many Microsoft Most Valuable Professionals and 
+  Regional Directors are speakers every year). 
+  
+  During the last years, Mihai has been focusing on building his company Avaelgo into a Gold Partner on Cloud Platform, with deep knowledge 
+  on the Microsoft Cloud (leveraged by the 5 MVPs working together in Avaelgo), and further into one of the best partners on the 
+  Microsoft Cloud. He is involved together with Microsoft in large enterprise projects, focusing on key Cloud scenarios for large 
+  Enterprise accounts. One of the most visible efforts of Mihai and Avaelgo is The Cloud Conference (https://conferintadecloud.ro) - 
+  a business conference for customers and partners, with the main objective to help shape the Cloud market in Central and Eastern Europe.
+tagline: Microsoft Cloud / Azure / AI / Cloud in the Enterprise
 image:
   alt: "Mihai Tataran"
-  src: media/profiles/mihai-tataran.jpg
-facebook: https://facebook.com/yourprofile
-twitter: https://twitter.com/yourprofile
-linkedin: https://linkedin.com/in/yourprofile
+  src: media/profiles/Mihai_Tataran.jpg
+facebook: https://www.facebook.com/mihai.tataran
+twitter: https://twitter.com/mihai_tataran
+linkedin: https://www.linkedin.com/in/mihaitataran
 location:
-  display: [City], [State, if applicable], [Country]
-  lat: [decimal latitude]
-  long: [decimal longitude]
+  display: Timisoara, Romania
+  lat: 45.760696
+  long: 21.226788
